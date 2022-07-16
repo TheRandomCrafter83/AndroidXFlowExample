@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridViewExample</string>
+    <string name="welcome">Welcome!</string>
+    <string name="to_begin_select_a_body_system">To begin, select a body system</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="placeholder_text">placeHolderText</string>
+    <string name="circulatory_system">Circulatory</string>
+</resources>
